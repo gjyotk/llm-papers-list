@@ -2,7 +2,7 @@
 
 ## Overview
 
-Every week, I set out to explore, reflect on, and document my learnings from one LLM-based research paper. This journey is a personal effort to stay connected with the latest developments, deepen my understanding of Machine Learning, and share my insights with others who share this passion. I'll use this repository as a space to chart my progress, with heartfelt summaries, challenges addressed by the papers, and links to any related blogs or discussions that resonate with me.
+Every week, I set out to explore, reflect on, and document my learnings from one LLM-based research paper. This journey is a personal effort to stay connected with the latest developments, deepen my understanding of Machine Learning, and share my insights with others who share this passion. I'll use this repository as a space to chart my progress, with summaries, challenges addressed by the papers, and links to any related blogs or discussions that resonate with me.
 
 ## Papers List
 
@@ -29,7 +29,6 @@ Personal Insights/Takeaways:
 
 Related Blog or Discussions:
 
-Link to Notes:
 
 ## How to Use This Repository
 
