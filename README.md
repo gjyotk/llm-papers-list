@@ -6,28 +6,17 @@ Every week, I set out to read, reflect on, and document my learnings from one LL
 
 ## Papers List
 
-Below is the list of most relevant foundational papers on LLMs (according to me) that I've curated from Latent Space's 2025 Papers list (https://www.latent.space/p/2025-papers#%C2%A7section-frontier-llms) and suggested reading materials from the course "Generative AI with Large Language Models" by Deeplearning.ai on Coursera:
+Below is the list of most relevant foundational papers on LLMs (according to me) that I've curated from Latent Space's 2025 Papers [list](https://www.latent.space/p/2025-papers#%C2%A7section-frontier-llms) and suggested reading materials from the course "Generative AI with Large Language Models" by Deeplearning.ai on Coursera:
 
 
-1. **[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)**
+1. **[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)** by *Alec Radford et al., 2018*
+   - [Paper Notes](https://www.dropbox.com/scl/fi/d6p85rjw5ccs1521a0sat/language_understanding_paper.pdf?rlkey=plnwzmzmrqijzcjt1je9im0zw&st=7cuzqrp7&dl=0)
+   - Summary:
+   - Key Contributions:
+   - Challenges the Paper Solves:
+   - Personal Insights/Takeaways:
 
-   *Alec Radford et al., 2018*
-
-2. **[Attention is All You Need](https://arxiv.org/abs/1706.03762)**
-
-   *Ashish Vaswani et al., 2017*
-
-## Weekly Progress
-
-Summary:
-
-Challenges the Paper Solves:
-
-Key Contributions:
-
-Personal Insights/Takeaways:
-
-Related Blog or Discussions:
+3. **[Attention is All You Need](https://arxiv.org/abs/1706.03762)** by *Ashish Vaswani et al., 2017*
 
 
 ## How to Use This Repository
