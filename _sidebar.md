@@ -1,4 +1,4 @@
 - [Home](README.md)
 - [Papers List](#papers-list)
-- [Weekly Progress](#weekly-progress)
+- [How to Use This Repository](#how-to-use-this-repository)
 
