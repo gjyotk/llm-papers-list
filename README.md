@@ -2,7 +2,7 @@
 
 ## Overview
 
-Every week, I set out to explore, reflect on, and document my learnings from one LLM-based research paper. This journey is a personal effort to stay connected with the latest developments, deepen my understanding of Machine Learning, and share my insights with others who share this passion. I'll use this repository as a space to chart my progress, with summaries, challenges addressed by the papers, and links to any related blogs or discussions that resonate with me.
+Every week, I set out to read, reflect on, and document my learnings from one LLM-based research paper. This repository is a personal effort to stay connected with the latest developments, deepen my understanding of Machine Learning, and share my insights with others who share this passion. 
 
 ## Papers List
 
@@ -32,7 +32,7 @@ Related Blog or Discussions:
 
 ## How to Use This Repository
 
-You can follow my progress by checking the updates in this README or visiting this URL: . Feel free to share your thoughts, suggest additional papers, or discuss the content via GitHub issues or pull requests.
+You can follow my progress by checking the updates in this README or visiting [this](gjyotk.github.io/llm-papers-list/#/) URL . Feel free to share your thoughts, suggest additional papers, or discuss the content via GitHub issues or pull requests.
 
 Stay tuned for weekly updates!
 
