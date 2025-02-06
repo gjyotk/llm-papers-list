@@ -11,10 +11,9 @@ Below is the list of most relevant foundational papers on LLMs (according to me)
 
 1. **[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)** by *Alec Radford et al., 2018*
    - [Paper Notes](https://www.dropbox.com/scl/fi/d6p85rjw5ccs1521a0sat/language_understanding_paper.pdf?rlkey=plnwzmzmrqijzcjt1je9im0zw&st=7cuzqrp7&dl=0)
-   - Summary:
-   - Key Contributions:
-   - Challenges the Paper Solves:
-   - Personal Insights/Takeaways:
+   - **Summary:** This paper introduces a semi-supervised approach using generative pre-training on a large, unlabeled text corpus, followed by discriminative fine-tuning on specific tasks. This method enhances performance across various NLP tasks by leveraging unsupervised learning to capture broad linguistic patterns before task-specific training.
+   - **Key Contributions:** The paper implements a combined approach of generative pre-training on unlabelled data (for getting the model to learn general patterns) followed by discriminative fine-tuning on labelled data (for better performance on specific tasks). The task-agnostic model outpreforms task-specific model on multiple benchmarks
+   - **Challenges the Paper Solves:** The paper addresses the scarcity of labelled data required for training language models. Using unlabelled data for model pre-training that also helps with regularisation. Implements task-specific input transformations that use traversal-style approach to convert structured inputs into ordered outputs. This reduces the extensive reconfiguration that was previously required for pretrained model to adapt to specific task.
 
 3. **[Attention is All You Need](https://arxiv.org/abs/1706.03762)** by *Ashish Vaswani et al., 2017*
 
