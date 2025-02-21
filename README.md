@@ -16,6 +16,11 @@ Below is the list of most relevant foundational papers on LLMs (according to me)
    - **Challenges the Paper Solves:** The paper addresses the scarcity of labelled data required for training language models. Using unlabelled data for model pre-training that also helps with regularisation. Implements task-specific input transformations that use traversal-style approach to convert structured inputs into ordered outputs. This reduces the extensive reconfiguration that was previously required for pretrained model to adapt to specific task.
 
 3. **[Attention is All You Need](https://arxiv.org/abs/1706.03762)** by *Ashish Vaswani et al., 2017*
+   - [Paper Notes]()
+   - [My Professor's Notes](https://www.dropbox.com/scl/fi/ejmmafmrfn21qmm24n51z/Attention-is-all-You-Need-explained.pdf?rlkey=bova7kjufm1gzdowwzmrkcrx1&st=icrhibk5&dl=0) (for detailed reference)
+   - **Summary:**
+   - **Key Contributions:**
+   - **Challenges the paper solves:**
 
 
 ## How to Use This Repository
